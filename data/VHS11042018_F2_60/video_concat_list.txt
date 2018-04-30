@@ -1,0 +1,4 @@
+# this is a comment
+file '/home/user/Documents/Vivek/dnn/fruitfly_direction/input/VHS11042018_F2_60/VHS11042018_F2_60_000.h264'
+file '/home/user/Documents/Vivek/dnn/fruitfly_direction/input/VHS11042018_F2_60/VHS11042018_F2_60_001.h264'
+file '/home/user/Documents/Vivek/dnn/fruitfly_direction/input/VHS11042018_F2_60/VHS11042018_F2_60_002.h264'
